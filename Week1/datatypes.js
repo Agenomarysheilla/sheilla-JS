@@ -1,0 +1,10 @@
+typeof 'Jaq'
+console.log(typeof 'Jaq');
+typeof 100
+console.log(typeof 100);
+typeof true
+console.log(typeof true);
+typeof null
+console.log(typeof null);
+typeof 'sheilla'
+console.log(typeof 'sheilla');
